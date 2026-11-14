@@ -2,11 +2,11 @@ export const site = {
   name: "Divine Life - Giving Church Worldwide",
   shortName: "Divine Life",
   subtitle: "Christ Covenant Church",
-  pastor: "Apostle Uzoh Atisele",
-  // Replace these placeholders with church-approved contact information.
-  phone: "",
+  pastor: "Apostle Atisele Uzoh",
+  phone: "+234 803 899 3997",
   email: "",
-  address: "",
+  address: "37 Adisa Ayelotan Street, off Mosalasi Road, Egan (near Ikotun / Igando), Lagos, Nigeria",
+  facebookPageName: "Divine Life-giving Church Worldwide",
   // Add the verified official URLs only when the church is ready.
   givingUrl: "",
   livestreamUrl: "",
@@ -22,7 +22,7 @@ export const sermons = [
   {
     category: "Faith & Foundation",
     title: "Building Your Life on the Word",
-    speaker: "Apostle Uzoh Atisele",
+    speaker: "Apostle Atisele Uzoh",
     date: "Featured message",
     duration: "Sermon video",
     image: "https://images.unsplash.com/photo-1507692049790-de58290a4334?auto=format&fit=crop&w=1200&q=85",
@@ -31,7 +31,7 @@ export const sermons = [
   {
     category: "Purpose",
     title: "Walking in the Life of Christ",
-    speaker: "Apostle Uzoh Atisele",
+    speaker: "Apostle Atisele Uzoh",
     date: "Featured message",
     duration: "Sermon video",
     image: "https://images.unsplash.com/photo-1511632765486-a01980e01a18?auto=format&fit=crop&w=1200&q=85",
@@ -51,24 +51,24 @@ export const sermons = [
 export const events = [
   {
     day: "SUNDAY",
-    time: "Add service time",
+    time: "Service time to be confirmed",
     title: "Sunday Worship Service",
-    description: "Come together for worship, the Word and fellowship.",
+    description: "Gather for worship, the Word, prayer and fellowship.",
     tag: "Weekly gathering"
   },
   {
-    day: "MIDWEEK",
-    time: "Add meeting time",
-    title: "Prayer & Word Encounter",
-    description: "A time to seek God together and grow in faith.",
-    tag: "Church gathering"
+    day: "PRAYER",
+    time: "Schedule to be confirmed",
+    title: "Prayer & Anointing Services",
+    description: "Join the church family for prayer and anointing services.",
+    tag: "Prayer gathering"
   },
   {
-    day: "SPECIAL",
-    time: "Date to be announced",
-    title: "Church Programmes",
-    description: "Stay connected for upcoming services and special programmes.",
-    tag: "Coming up"
+    day: "MONTHLY",
+    time: "Dates to be announced",
+    title: "Prophetic Entrance with Fresh Oil for Fresh Impact",
+    description: "The church's monthly prophetic programme. Confirm upcoming dates with the church.",
+    tag: "Prophetic programme"
   }
 ];
 
